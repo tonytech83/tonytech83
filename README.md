@@ -1,4 +1,4 @@
-<h1 align="center"><b><i> Hi there, I'm Anton Petrov! </i></b> </h1>
+<h1 align="center"><b><i> Hi there, I'm Anton! </i></b> </h1>
 
 
 
@@ -17,3 +17,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tonytech83&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytech83&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ![visits](https://komarev.com/ghpvc/?username=ivoivanov083006)
