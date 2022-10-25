@@ -14,9 +14,9 @@
 
 <div id="badges" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tonytech83&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tonytech83&theme=gruvbox_duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytech83&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytech83&layout=compact&theme=codeSTACKr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
