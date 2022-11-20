@@ -17,6 +17,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=tonytech83&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![TonyTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonytech83&show_icons=true&theme=transparent&title_color=FF6D28&text_color=A8E890&hide_border=true)
 
 ---
 
