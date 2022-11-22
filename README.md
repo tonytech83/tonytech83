@@ -1,6 +1,6 @@
 <h1 align="center"><b><i> Hi there, I'm Anton! </i></b> </h1>
 
-<a href=#><img src="giphy.svg"></a>
+<!--- <a href=#><img src="giphy.svg"></a> -->
 
 <!--
  <a href="your-python-URL">
