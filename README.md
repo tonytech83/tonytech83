@@ -1,22 +1,10 @@
-<h3 align="left">
+<h2 align="left">
  <p><i> "Since we're all rich with bitcoins, or we will be once they're worth a million dollars like </i></p>
  <p><i> everyone expects, we ought to put some of this unearned wealth to good use." </i></p>
-</h3>
-<h3 align="center">
- <p><i>- Hal Finney </i></p> 
-</h3>
+ <p align="right"><i>- Hal Finney </i></p> 
+</h2>
 
-<!--- <a href=#><img src="giphy.svg"></a> -->
 
-<!--
- <a href="your-python-URL">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
- </a>
-  
-<a href="your-javascript-URL">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
-  </a>
--->  
 
 <div id="badges" align="center">
 
