@@ -1,4 +1,10 @@
-<h1 align="center"><b><i> Hi there, I'm Anton! </i></b> </h1>
+<h3 align="left">
+ <p><i> "Since we're all rich with bitcoins, or we will be once they're worth a million dollars like </i></p>
+ <p><i> everyone expects, we ought to put some of this unearned wealth to good use." </i></p>
+</h3>
+<h3 align="center">
+ <p><i>- Hal Finney </i></p> 
+</h3>
 
 <!--- <a href=#><img src="giphy.svg"></a> -->
 
