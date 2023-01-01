@@ -7,7 +7,8 @@
 </h3>
 
 <br/>
-<br/>
+
+---
 
 <div id="badges" align="center">
 
