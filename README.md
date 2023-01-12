@@ -15,7 +15,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=tonytech83&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 </div>
 
+
+<div>
+  <img height="160" align="left" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
+  <img height="160" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890" />
+</div>
+
 <!-- <div>
+
+
  
  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=tonytech83&show_icons=true&theme=transparent&title_color=FF6D28&text_color=A8E890&hide_border=true" />
  <img height="160" alt="TonyTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890" />
