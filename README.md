@@ -16,11 +16,13 @@
 </div>
 
 
-<div>
+<!-- <div>
   <img height="160" align="left" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
   <img height="160" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890" />
+</div> -->
+<div>
+<img height="160" align="left" alt="TonyTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonytech&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent)"
 </div>
-
 <!-- <div>
 
 
