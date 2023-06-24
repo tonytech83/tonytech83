@@ -9,6 +9,16 @@
 <br/>
 
 ---
+<div display="flex">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm Logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HMLT5 Logo" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+</div>
+
+---
 
 <div id="badges" align="center">
 
