@@ -9,7 +9,7 @@
 <br/>
 
 ---
-<div display="flex">
+<div align="center" display="flex">
 <a href="/python_cert.md"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40">
