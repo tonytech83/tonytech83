@@ -9,7 +9,7 @@
 <br/>
 
 ---
-<div align="left" >
+<div align="center" >
 <h3>Languages:</h3>
 <a href="/python_cert.md"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
 <a href="/html_css_cert.md"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HMLT5" width="40" height="40"></a>
