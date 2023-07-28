@@ -22,6 +22,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="PS"></a>
+ <a href="#"><img src="https://skillicons.dev/icons?i=regex" alt="Regex"/></a>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> -->
 <h3><i>Environments:</i></h3>
 <!-- <a href="https://skillicons.dev/icons?i=pycharm" alt="PyCharm"></a> -->
@@ -30,6 +31,8 @@
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/></a>
+
 <!-- <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"></a> -->
 <!-- <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
 <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"></a>
