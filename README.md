@@ -20,6 +20,7 @@
 <a href="/mysql_cert.md"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
 <!-- <a href="/mysql_cert.md"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"></a> -->
 <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="PS"></a>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> -->
 <h3><i>Environments:</i></h3>
