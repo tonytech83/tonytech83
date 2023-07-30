@@ -10,7 +10,7 @@
 
 ---
 <div align="center" >
-<h3><i>Languages:</i></h3>
+<h3><i>L a n g u a g e s:</i></h3>
 <a href="/python_cert.md"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
 <!-- <a href="/python_cert.md"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a> -->
 <a href="/html_css_cert.md"><img src="https://skillicons.dev/icons?i=html" alt="HMLT5"></a>
@@ -24,7 +24,7 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="PS"></a>
  <a href="#"><img src="https://skillicons.dev/icons?i=regex" alt="Regex"/></a>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> -->
-<h3><i>Environments:</i></h3>
+<h3><i>E n v i r o n m e n t s:</i></h3>
 <!-- <a href="https://skillicons.dev/icons?i=pycharm" alt="PyCharm"></a> -->
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>
