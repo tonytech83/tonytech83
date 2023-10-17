@@ -14,7 +14,7 @@
 <a href="/python_cert.md"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
 <a href="/html_css_cert.md"><img src="https://skillicons.dev/icons?i=html" alt="HMLT5"></a>
 <a href="/html_css_cert.md"><img src="https://skillicons.dev/icons?i=css" alt="CSS" ></a>
-<a href="/mysql_cert.md"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>>
+<a href="/mysql_cert.md"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
 <a href="/js_front_end_cert.md"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
 <a href="/postgreslq.md"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
