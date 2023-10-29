@@ -17,11 +17,14 @@
 <a href="/mysql_cert.md"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
 <a href="/js_front_end_cert.md"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
 <a href="/postgreslq.md"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=md" alt="MD"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="PS"></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=regex" alt="Regex"/></a>
+
+<h3><i>F r a m e w o r k s :</i></h3>
+<a href="#"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
+
 
 <h3><i>E n v i r o n m e n t s :</i></h3>
 <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux System Administration"></a>
