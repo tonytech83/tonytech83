@@ -28,7 +28,7 @@
 
 
 <h3><i>E n v i r o n m e n t s :</i></h3>
-<a href="/LSA.md"><img src="https://skillicons.dev/icons?i=linux" alt="Linux System Administration"></a>
+<a href="/lsa.md"><img src="https://skillicons.dev/icons?i=linux" alt="Linux System Administration"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
