@@ -9,6 +9,45 @@
 <br/>
 
 ---
+<h3><i>Programming and Markup Languages:</i></h3>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" alt="Bash Shell"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat" alt="Python"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat" alt="Markdown"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat" alt="CSS"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-RegEx-3e69cd?logo=&logoColor=white&style=flat" alt="CSS"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-SQL-1572B6?logo=&logoColor=white&style=flat" alt="CSS"></a>
+
+<h3><i>Frameworks and Libraries:</i></h3>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=Pytest&logoColor=white&style=flat" alt="Pytest"></a>
+
+
+<h3><i>Databases and Cloud Hosting:</i></h3>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="Django"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat" alt="Django"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Microsoft SQL Server-003B57?logo=microsoftsqlserver&logoColor=white&style=flat" alt="Pytest"></a>
+
+<h3><i>Software and Tools:</i></h3>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=black&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat" alt="PyCharm"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="Visual Studio Code"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-VMware Workstation-607078?logo=vmware&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Portainer-13BEF9?logo=portainer&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-ZABBIX-c72229?logo=&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white&style=flat" alt="Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Pihole-96060C?logo=pihole&logoColor=white&style=flat" alt="Linux"></a>
+<!--
 <div align="center" >
 <h3><i>L a n g u a g e s :</i></h3>
 <a href="/python_cert.md"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
@@ -39,9 +78,9 @@
 <!-- <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"></a> -->
 <!-- <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
 <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"></a>
-<img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
+<img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-
+-->
 ---
 
 <div id="badges" align="center">
