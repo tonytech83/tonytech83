@@ -30,7 +30,7 @@
 <a href="/mysql_cert.md"><img height="24" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat" alt="SQLite"></a>
 <a href="/postgreslq.md"><img height="24" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-Microsoft SQL Server-003B57?logo=microsoftsqlserver&logoColor=white&style=flat" alt="MS SQL Server"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat" alt="MS SQL Server"></a>
 
 <h3><i>Software and Tools:</i></h3>
 <a href="/lsa.md"><img height="24" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></a>
