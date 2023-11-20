@@ -35,7 +35,7 @@
 
 <h3><i>Software and Tools:</i></h3>
 <a href="/lsa.md"><img height="24" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=black&style=flat" alt="Windows"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=flat" alt="Windows"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat" alt="PyCharm"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="Visual Studio Code"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"></a>
