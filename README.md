@@ -21,7 +21,7 @@
 <!-- <a href="#"><img height="24" src="https://img.shields.io/badge/-SQL-1572B6?logo=&logoColor=white&style=flat" alt="CSS"></a> -->
 
 <h3><i>Frameworks and Libraries:</i></h3>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django"></a>
+<a href="/django_cert.md"><img height="24" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=Pytest&logoColor=white&style=flat" alt="Pytest"></a>
 <!-- <a href="#"><img height="24" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat" alt="jQuery"></a> -->
