@@ -25,6 +25,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=Pytest&logoColor=white&style=flat" alt="Pytest"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white&style=flat" alt="jQuery"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy"></a>
 
 <h3><i>Databases and Cloud Hosting:</i></h3>
 <a href="/mysql_cert.md"><img height="24" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL"></a>
@@ -38,6 +39,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=flat" alt="Windows"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat" alt="PyCharm"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="Visual Studio Code"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-VMware Workstation-607078?logo=vmware&logoColor=white&style=flat" alt="VMware Workstatiob"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"></a>
