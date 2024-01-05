@@ -26,6 +26,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Pytest-0A9EDC?logo=Pytest&logoColor=white&style=flat" alt="Pytest"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white&style=flat" alt="jQuery"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas"></a>
 
 <h3><i>Databases and Cloud Hosting:</i></h3>
 <a href="/mysql_cert.md"><img height="24" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL"></a>
