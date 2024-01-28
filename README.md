@@ -49,7 +49,6 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat" alt="Grafana"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Portainer-13BEF9?logo=portainer&logoColor=white&style=flat" alt="Portainer"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-ZABBIX-c72229?logo=&logoColor=white&style=flat" alt="ZABBIX"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-Thorium-1a73e8?logo=googlechrome&logoColor=white&style=flat" alt="Thorium"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white&style=flat" alt="Brave"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Pihole-96060C?logo=pihole&logoColor=white&style=flat" alt="Pi-hole"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat" alt="Proxmox"></a>
