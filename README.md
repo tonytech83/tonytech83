@@ -18,7 +18,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat" alt="Markdown"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat" alt="PowerShell"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-RegEx-3e69cd?logo=&logoColor=white&style=flat" alt="RegEx"></a>
-<!-- <a href="#"><img height="24" src="https://img.shields.io/badge/-SQL-1572B6?logo=&logoColor=white&style=flat" alt="CSS"></a> -->
+<a href="#"><img height="24" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat" alt="LaTeX"></a>
 
 <h3><i>Frameworks and Libraries:</i></h3>
 <a href="/django_cert.md"><img height="24" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" alt="Django"></a>
