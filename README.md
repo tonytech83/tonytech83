@@ -57,6 +57,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white&style=flat" alt="Brave"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Pihole-96060C?logo=pihole&logoColor=white&style=flat" alt="Pi-hole"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat" alt="Proxmox"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat" alt="Ansible"></a>
 <!--
 <div align="center" >
 <h3><i>L a n g u a g e s :</i></h3>
