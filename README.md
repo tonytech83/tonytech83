@@ -59,40 +59,8 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat" alt="Proxmox"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat" alt="Ansible"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-openmediavault-5DACDF?logo=openmediavault&logoColor=white&style=flat" alt="openmediavault"></a>
-<!--
-<div align="center" >
-<h3><i>L a n g u a g e s :</i></h3>
-<a href="/python_cert.md"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
-<a href="/html_css_cert.md"><img src="https://skillicons.dev/icons?i=html" alt="HMLT5"></a>
-<a href="/html_css_cert.md"><img src="https://skillicons.dev/icons?i=css" alt="CSS" ></a>
-<a href="/mysql_cert.md"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
-<a href="/js_front_end_cert.md"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>
-<a href="/postgreslq.md"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=md" alt="MD"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=powershell" alt="PS"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=regex" alt="Regex"/></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat" alt="jenkins"></a>
 
-<h3><i>F r a m e w o r k s :</i></h3>
-<a href="#"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>
-
-
-<h3><i>E n v i r o n m e n t s :</i></h3>
-<a href="/lsa.md"><img src="https://skillicons.dev/icons?i=linux" alt="Linux System Administration"></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/></a>
-
-<!-- <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"></a> -->
-<!-- <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
-<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"></a>
-<img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
--->
 ---
 
 <div id="badges" align="center">
