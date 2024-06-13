@@ -58,6 +58,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Pihole-96060C?logo=pihole&logoColor=white&style=flat" alt="Pi-hole"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=flat" alt="Proxmox"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat" alt="Ansible"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Vagrant-1868F2?logo=vagrant&logoColor=white&style=flat" alt="Vagrant"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-openmediavault-5DACDF?logo=openmediavault&logoColor=white&style=flat" alt="openmediavault"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat" alt="jenkins"></a>
 
