@@ -18,6 +18,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat" alt="Markdown"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat" alt="PowerShell"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-RegEx-3e69cd?logo=&logoColor=white&style=flat" alt="RegEx"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-YAML-CB171E?logo=yaml&logoColor=white&style=flat" alt="YAML"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat" alt="LaTeX"></a>
 
 <h3><i>Frameworks and Libraries:</i></h3>
