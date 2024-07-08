@@ -47,7 +47,7 @@
 <a href="/jupyter.md"><img height="24" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions"></a>
+<a href="/devops.md"><img height="24" src="https://img.shields.io/badge/-GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-VMware Workstation-607078?logo=vmware&logoColor=white&style=flat" alt="VMware Workstatiob"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman"></a>
