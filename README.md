@@ -63,6 +63,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-openmediavault-5DACDF?logo=openmediavault&logoColor=white&style=flat" alt="openmediavault"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=flat" alt="Terraform"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-dwm-1177AA?logo=dwm&logoColor=white&style=flat" alt="dwm"></a>
 
 ---
 
