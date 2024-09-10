@@ -1,4 +1,5 @@
 <div align="center" display="flex">
+    <img src="./certs/full-stack.jfif" alt="Python Full-Stack" width="293" height="420">
     <img src="./certs/python_basics.jfif" alt="Python_basics" width="293" height="420">
     <img src="./certs/python_fundamentals.jfif" alt="Python_fund" width="293" height="420">
     <img src="./certs/python_advanced.jfif" alt="Python_advanced" width="293" height="420">
