@@ -65,6 +65,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=flat" alt="Terraform"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-dwm-1177AA?logo=dwm&logoColor=white&style=flat" alt="dwm"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat" alt="Prometheus"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="kubernetes"></a>
 
 <!-- <div id="badges" align="center">
 
