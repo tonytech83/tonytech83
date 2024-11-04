@@ -78,8 +78,7 @@
   <img height="200" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890&langs_count=8" />
 </p>
 </div>
- 
-<br/>
+
 <hr/>
 
 <div align="center">
