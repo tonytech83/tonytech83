@@ -65,8 +65,8 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=flat" alt="Terraform"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-dwm-1177AA?logo=dwm&logoColor=white&style=flat" alt="dwm"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat" alt="Prometheus"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="kubernetes"></a>
-
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=flat" alt="Helm"></a>
 <!-- <div id="badges" align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tonytech83&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats) 
