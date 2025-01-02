@@ -79,24 +79,24 @@
 
 <hr/>
 
-### 👷 Check out what I'm currently working on
+<h3><i>Currently working on</i></h3>
 
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - Flask-based web application
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - Django-based web application
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/kubernetes](https://github.com/tonytech83/kubernetes) - Kubernetes - Octomber 2024
 - [tonytech83/Inventory](https://github.com/tonytech83/Inventory) - Django Project for Final Exam
-### 🌱 My latest projects
+<h3><i>My latest projects</i></h3>
 
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - Flask-based web application
 - [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - 
 - [tonytech83/kubernetes](https://github.com/tonytech83/kubernetes) - Kubernetes - Octomber 2024
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - Django-based web application
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
-### 🔨 My recent Pull Requests
+<h3><i>My recent Pull Requests</i></h3>
 
 - [Fix failing UI tests.](https://github.com/tonytech83/tonytech-regular-exam/pull/1) on [tonytech83/tonytech-regular-exam](https://github.com/tonytech83/tonytech-regular-exam)
-### ⭐ Recent Stars
+<h3><i>Recent Stars</i></h3>
 
 - [mustafacagri/vue3-chatgpt-ai](https://github.com/mustafacagri/vue3-chatgpt-ai) - ⭐️ The most comprehensive ChatGPT repo with Vue 3: Vue ChatGPT AI! ⭐️ Unlock the power of AI-driven conversations with OpenAI. 🚀 Enjoy real-time messaging, seamless image/audio support, and Firebase integration. Built on Vue 3 &amp; Vuetify 3, with Pinia for robust state management. Revolutionize user interactions with advanced technology! 🎉
 - [Wind4/vlmcsd-docker](https://github.com/Wind4/vlmcsd-docker) - Docker container
