@@ -82,19 +82,19 @@
 
 <hr/>
 
-### 👷 Check out what I'm currently working on
+<h3><i>Currently working on</i></h3>
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### 🌱 My latest projects
+<h3><i>My latest projects</i></h3>
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
-### 🔨 My recent Pull Requests
+<h3><i>My recent Pull Requests</i></h3>
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
-### ⭐ Recent Stars
+<h3><i>Recent Stars</i></h3>
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
