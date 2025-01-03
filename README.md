@@ -89,7 +89,7 @@
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - Flask-based web application
-- [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - 
+- [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
 - [tonytech83/kubernetes](https://github.com/tonytech83/kubernetes) - Kubernetes - Octomber 2024
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - Django-based web application
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
