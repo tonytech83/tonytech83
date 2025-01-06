@@ -81,18 +81,18 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; examps
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - Flask-based web application
+- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
+- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; examps
 - [tonytech83/Python-DB](https://github.com/tonytech83/Python-DB) - Softuni - Python DB - September 2023
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - Django-based web application
-- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - Flask-based web application
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; examps
 - [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
 - [tonytech83/kubernetes](https://github.com/tonytech83/kubernetes) - Kubernetes - Octomber 2024
-- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - Django-based web application
 <h3><i>My recent Pull Requests</i></h3>
 
 - [Fix failing UI tests.](https://github.com/tonytech83/tonytech-regular-exam/pull/1) on [tonytech83/tonytech-regular-exam](https://github.com/tonytech83/tonytech-regular-exam)
