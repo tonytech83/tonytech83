@@ -68,7 +68,6 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus"></a>
 <a href="/k8s.md"><img height="24" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=flat-square" alt="Helm"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-VirtualBox-2F61B4?logo=virtualbox&logoColor=white&style=flat-square" alt="VirtualBox"></a>
 
 
 <hr/>
@@ -83,28 +82,29 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
+- [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
+- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; examps
-- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
-- [tonytech83/Python-DB](https://github.com/tonytech83/Python-DB) - Softuni - Python DB - September 2023
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
 - [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; examps
 - [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
-- [tonytech83/kubernetes](https://github.com/tonytech83/kubernetes) - Kubernetes - Octomber 2024
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Fix the issue the disappearing records. Problem with Render.com serve…](https://github.com/tonytech83/sqm-vs-btc/pull/2) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [migrate from file to database](https://github.com/tonytech83/sqm-vs-btc/pull/1) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Fix failing UI tests.](https://github.com/tonytech83/tonytech-regular-exam/pull/1) on [tonytech83/tonytech-regular-exam](https://github.com/tonytech83/tonytech-regular-exam)
 <h3><i>Recent Stars</i></h3>
 
+- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [mustafacagri/vue3-chatgpt-ai](https://github.com/mustafacagri/vue3-chatgpt-ai) - ⭐️ The most comprehensive ChatGPT repo with Vue 3: Vue ChatGPT AI! ⭐️ Unlock the power of AI-driven conversations with OpenAI. 🚀 Enjoy real-time messaging, seamless image/audio support, and Firebase integration. Built on Vue 3 &amp; Vuetify 3, with Pinia for robust state management. Revolutionize user interactions with advanced technology! 🎉
 - [Wind4/vlmcsd-docker](https://github.com/Wind4/vlmcsd-docker) - Docker container
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-- [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
 
 
 <div align="center">
