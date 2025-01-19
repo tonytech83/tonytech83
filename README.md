@@ -45,6 +45,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=flat-square" alt="Windows"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square" alt="PyCharm"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="Visual Studio Code"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-CLion-000000?logo=clion&logoColor=white&style=flat-square" alt="CLion"></a>
 <a href="/jupyter.md"><img height="24" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"></a>
@@ -68,6 +69,7 @@
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus"></a>
 <a href="/k8s.md"><img height="24" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=flat-square" alt="Helm"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-VirtualBox-2F61B4?logo=virtualbox&logoColor=white&style=flat-square" alt="VirtualBox"></a>
 
 
 <hr/>
