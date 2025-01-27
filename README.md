@@ -85,18 +85,19 @@
 
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
-- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
-- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; examps
+- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
+- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
 - [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; examps
+- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Migrate to psql](https://github.com/tonytech83/sqm-vs-btc/pull/3) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Fix the issue the disappearing records. Problem with Render.com serve…](https://github.com/tonytech83/sqm-vs-btc/pull/2) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [migrate from file to database](https://github.com/tonytech83/sqm-vs-btc/pull/1) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Fix failing UI tests.](https://github.com/tonytech83/tonytech-regular-exam/pull/1) on [tonytech83/tonytech-regular-exam](https://github.com/tonytech83/tonytech-regular-exam)
