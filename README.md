@@ -83,31 +83,32 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
-- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
-- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
+- [tonytech83/my-bash](https://github.com/tonytech83/my-bash) - my-bash is a customizable bash environment setup script that automates the installation of various tools and configurations to enhance your terminal experience.
+- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
+- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/my-bash](https://github.com/tonytech83/my-bash) - my-bash is a customizable bash environment setup script that automates the installation of various tools and configurations to enhance your terminal experience.
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
 - [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
-- [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
 <h3><i>My recent Pull Requests</i></h3>
 
+- [URL Rules and Class-Based Views](https://github.com/tonytech83/sqm-vs-btc/pull/4) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Migrate to psql](https://github.com/tonytech83/sqm-vs-btc/pull/3) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Fix the issue the disappearing records. Problem with Render.com serve…](https://github.com/tonytech83/sqm-vs-btc/pull/2) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [migrate from file to database](https://github.com/tonytech83/sqm-vs-btc/pull/1) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Fix failing UI tests.](https://github.com/tonytech83/tonytech-regular-exam/pull/1) on [tonytech83/tonytech-regular-exam](https://github.com/tonytech83/tonytech-regular-exam)
 <h3><i>Recent Stars</i></h3>
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [mustafacagri/vue3-chatgpt-ai](https://github.com/mustafacagri/vue3-chatgpt-ai) - ⭐️ The most comprehensive ChatGPT repo with Vue 3: Vue ChatGPT AI! ⭐️ Unlock the power of AI-driven conversations with OpenAI. 🚀 Enjoy real-time messaging, seamless image/audio support, and Firebase integration. Built on Vue 3 &amp; Vuetify 3, with Pinia for robust state management. Revolutionize user interactions with advanced technology! 🎉
 - [Wind4/vlmcsd-docker](https://github.com/Wind4/vlmcsd-docker) - Docker container
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 
 
 <div align="center">
