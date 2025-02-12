@@ -42,7 +42,8 @@
 
 <h3><i>Software and Tools:</i></h3>
 <a href="/lsa.md"><img height="24" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white&style=flat" alt="Windows"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=archlinux&logoColor=white&style=flat" alt="Arch Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat" alt="Arch Linux"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat" alt="PyCharm"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="Visual Studio Code"></a>
 <a href="/jupyter.md"><img height="24" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter"></a>
