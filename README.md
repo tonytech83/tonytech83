@@ -86,10 +86,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
+- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [tonytech83/my-bash](https://github.com/tonytech83/my-bash) - my-bash is a customizable bash environment setup script that automates the installation of various tools and configurations to enhance your terminal experience.
+- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
@@ -99,11 +99,11 @@
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 <h3><i>My recent Pull Requests</i></h3>
 
+- [add keep alive workflow](https://github.com/tonytech83/crossfit-wods/pull/1) on [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods)
 - [fix the prices for btc and sqm](https://github.com/tonytech83/sqm-vs-btc/pull/5) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [URL Rules and Class-Based Views](https://github.com/tonytech83/sqm-vs-btc/pull/4) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Migrate to psql](https://github.com/tonytech83/sqm-vs-btc/pull/3) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Fix the issue the disappearing records. Problem with Render.com serve…](https://github.com/tonytech83/sqm-vs-btc/pull/2) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [migrate from file to database](https://github.com/tonytech83/sqm-vs-btc/pull/1) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
 - [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
