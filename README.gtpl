@@ -15,7 +15,7 @@
 <a href="/html_css_cert.md"><img height="24" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML"></a>
 <a href="/html_css_cert.md"><img height="24" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"></a>
 <a href="/js_front_end_cert.md"><img height="24" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"></a>
-<a href="#"><img height="24" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"></a>
+<a href="/cpp.md"><img height="24" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square" alt="Markdown"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square" alt="PowerShell"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-RegEx-3e69cd?logo=&logoColor=white&style=flat-square" alt="RegEx"></a>
