@@ -11,11 +11,11 @@
 ---
 <h3><i>Programming and Markup Languages:</i></h3>
 <a href="/python_cert.md"><img height="24" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" alt="Python"></a>
+<a href="/cpp.md"><img height="24" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"></a>
 <a href="/lsa.md"><img height="24" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square" alt="Bash Shell"></a>
 <a href="/html_css_cert.md"><img height="24" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML"></a>
 <a href="/html_css_cert.md"><img height="24" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"></a>
 <a href="/js_front_end_cert.md"><img height="24" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"></a>
-<a href="/cpp.md"><img height="24" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square" alt="Markdown"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square" alt="PowerShell"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-RegEx-3e69cd?logo=&logoColor=white&style=flat-square" alt="RegEx"></a>
@@ -85,9 +85,9 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
-- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 <h3><i>My latest projects</i></h3>
