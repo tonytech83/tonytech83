@@ -44,6 +44,7 @@
 
 <a href="/lsa.md"><img height="24" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Arch Linux-1793D1?logo=archlinux&logoColor=white&style=flat-square" alt="Arch Linux"></a>
+<a href="#"><img height="24" src="https://img.shields.io/badge/-AlmaLinux-000000?logo=almalinux&logoColor=white&style=flat-square" alt="Arch Linux"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat-square" alt="Debian"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square" alt="PyCharm"></a>
 <a href="#"><img height="24" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="Visual Studio Code"></a>
