@@ -87,10 +87,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
+- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
@@ -100,11 +100,11 @@
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Sqm price through proxies](https://github.com/tonytech83/sqm-vs-btc/pull/7) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
+- [change sqm price timeout form 30 to 60](https://github.com/tonytech83/sqm-vs-btc/pull/6) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [add keep alive workflow](https://github.com/tonytech83/crossfit-wods/pull/1) on [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods)
 - [fix the prices for btc and sqm](https://github.com/tonytech83/sqm-vs-btc/pull/5) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [URL Rules and Class-Based Views](https://github.com/tonytech83/sqm-vs-btc/pull/4) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [Migrate to psql](https://github.com/tonytech83/sqm-vs-btc/pull/3) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [Fix the issue the disappearing records. Problem with Render.com serve…](https://github.com/tonytech83/sqm-vs-btc/pull/2) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
 - [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
