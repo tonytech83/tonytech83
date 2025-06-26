@@ -80,8 +80,14 @@
 
 <hr/>
 <div>
+<<<<<<< HEAD
   <img height="200" width="48%" align="left" alt="TonyTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
   <img height="200" alt="TonyTech's GitHub Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890&langs_count=8" />
+=======
+  <img height="200" width="48%" align="left" alt="TonyTech's GitHub Stats" src="github-readme-stats.vercel.app/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
+  <img height="200" alt="TonyTech's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890&langs_count=8" />
+</p>
+>>>>>>> e6011a7c8307eb9e081d12d988150a45e13b2b36
 </div>
 
 <hr/>
