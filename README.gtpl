@@ -10,8 +10,8 @@
 
 ---
 <h3><i>Programming and Markup Languages:</i></h3>
-<a href="/python_cert.md"><img height="24" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" alt="Python"></a>
-<a href="/cpp.md"><img height="24" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"></a>
+<a href="/python_cert.md"><img height="26" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" alt="Python"></a>
+<a href="/cpp.md"><img height="28" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"></a>
 <a href="/lsa.md"><img height="24" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square" alt="Bash Shell"></a>
 <a href="/html_css_cert.md"><img height="24" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML"></a>
 <a href="/html_css_cert.md"><img height="24" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"></a>
