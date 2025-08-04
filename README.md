@@ -85,18 +85,18 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/flask-email-auth](https://github.com/tonytech83/flask-email-auth) - This repo demonstrates how to generate and send email confirmation links using Flask-Mail and itsdangerous in web apps.
 - [tonytech83/CV](https://github.com/tonytech83/CV) - Static HTML &amp; CSS site using for CV
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/flask-email-auth](https://github.com/tonytech83/flask-email-auth) - This repo demonstrates how to generate and send email confirmation links using Flask-Mail and itsdangerous in web apps.
 - [tonytech83/CV](https://github.com/tonytech83/CV) - Static HTML &amp; CSS site using for CV
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/my-bash](https://github.com/tonytech83/my-bash) - my-bash is a customizable bash environment setup script that automates the installation of various tools and configurations to enhance your terminal experience.
 - [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
-- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
 <h3><i>My recent Pull Requests</i></h3>
 
 - [Sqm price through proxies](https://github.com/tonytech83/sqm-vs-btc/pull/7) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
