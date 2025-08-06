@@ -85,10 +85,10 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/flask-email-auth](https://github.com/tonytech83/flask-email-auth) - This repo demonstrates how to generate and send email confirmation links using Flask-Mail and itsdangerous in web apps.
 - [tonytech83/CV](https://github.com/tonytech83/CV) - Static HTML &amp; CSS site using for CV
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 <h3><i>My latest projects</i></h3>
 
