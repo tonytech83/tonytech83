@@ -86,17 +86,17 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
+- [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
+- [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [tonytech83/flask-email-auth](https://github.com/tonytech83/flask-email-auth) - This repo demonstrates how to generate and send email confirmation links using Flask-Mail and itsdangerous in web apps.
-- [tonytech83/CV](https://github.com/tonytech83/CV) - Static HTML &amp; CSS site using for CV
+- [tonytech83/garmin-connect](https://github.com/tonytech83/garmin-connect) - Garmin Connect Data Access
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
+- [tonytech83/garmin-connect](https://github.com/tonytech83/garmin-connect) - Garmin Connect Data Access
 - [tonytech83/flask-email-auth](https://github.com/tonytech83/flask-email-auth) - This repo demonstrates how to generate and send email confirmation links using Flask-Mail and itsdangerous in web apps.
 - [tonytech83/CV](https://github.com/tonytech83/CV) - Static HTML &amp; CSS site using for CV
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [tonytech83/my-bash](https://github.com/tonytech83/my-bash) - my-bash is a customizable bash environment setup script that automates the installation of various tools and configurations to enhance your terminal experience.
-- [tonytech83/lsaa](https://github.com/tonytech83/lsaa) - This course builds skills for managing Linux-based infrastructure, focusing on virtualization, containerization, data sharing, and resilient services. It includes theory and hands-on practice with CentOS, openSUSE, and Ubuntu.
 <h3><i>My recent Pull Requests</i></h3>
 
 - [Sqm price through proxies](https://github.com/tonytech83/sqm-vs-btc/pull/7) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
@@ -106,11 +106,11 @@
 - [URL Rules and Class-Based Views](https://github.com/tonytech83/sqm-vs-btc/pull/4) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
+- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get activity statistics
 - [shekeriev/gitops-and-k8s](https://github.com/shekeriev/gitops-and-k8s) - Repository for the presentation &#34;GitOps and Kubernetes&#34; prepared for DEV.BG Community Day 2025
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [tonytech83/keepass](https://github.com/tonytech83/keepass) - 
 - [tonytech83/d2r-saves](https://github.com/tonytech83/d2r-saves) - 
-- [Fox8284/Microsoft-HEVC-Video-Extension](https://github.com/Fox8284/Microsoft-HEVC-Video-Extension) - Download the HEVC Video Extension for free without paying $0.99 on the Microsoft Store
 
 
 <div align="center">
