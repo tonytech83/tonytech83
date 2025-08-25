@@ -85,10 +85,10 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
-- [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
+- [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
+- [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
 - [tonytech83/garmin-connect](https://github.com/tonytech83/garmin-connect) - Garmin Connect Data Access
 <h3><i>My latest projects</i></h3>
 
@@ -99,18 +99,18 @@
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Migrate app from PostgreSQL to InfluxDB2](https://github.com/tonytech83/hwg-ste-to-db/pull/1) on [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db)
+- [Add installation of Terminal-Icons](https://github.com/tonytech83/powershell-profile/pull/1) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
 - [Sqm price through proxies](https://github.com/tonytech83/sqm-vs-btc/pull/7) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [change sqm price timeout form 30 to 60](https://github.com/tonytech83/sqm-vs-btc/pull/6) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [add keep alive workflow](https://github.com/tonytech83/crossfit-wods/pull/1) on [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods)
-- [fix the prices for btc and sqm](https://github.com/tonytech83/sqm-vs-btc/pull/5) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [URL Rules and Class-Based Views](https://github.com/tonytech83/sqm-vs-btc/pull/4) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get activity statistics
 - [shekeriev/gitops-and-k8s](https://github.com/shekeriev/gitops-and-k8s) - Repository for the presentation &#34;GitOps and Kubernetes&#34; prepared for DEV.BG Community Day 2025
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [tonytech83/keepass](https://github.com/tonytech83/keepass) - 
-- [tonytech83/d2r-saves](https://github.com/tonytech83/d2r-saves) - 
 
 
 <div align="center">
