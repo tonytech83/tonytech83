@@ -85,29 +85,29 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
+- [tonytech83/Inventory](https://github.com/tonytech83/Inventory) - Django Project for Final Exam
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
+- [tonytech83/add-wifi-profile](https://github.com/tonytech83/add-wifi-profile) - Minimal script to remove, add, and connect to a Wi‑Fi profile using netsh.
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
-- [tonytech83/zabbix](https://github.com/tonytech83/zabbix) - Zabbix templates
-- [tonytech83/garmin-connect](https://github.com/tonytech83/garmin-connect) - Garmin Connect Data Access
+- [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/add-wifi-profile](https://github.com/tonytech83/add-wifi-profile) - Minimal script to remove, add, and connect to a Wi‑Fi profile using netsh.
 - [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
 - [tonytech83/garmin-connect](https://github.com/tonytech83/garmin-connect) - Garmin Connect Data Access
 - [tonytech83/flask-email-auth](https://github.com/tonytech83/flask-email-auth) - This repo demonstrates how to generate and send email confirmation links using Flask-Mail and itsdangerous in web apps.
 - [tonytech83/CV](https://github.com/tonytech83/CV) - Static HTML &amp; CSS site using for CV
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Add new zinit snippets](https://github.com/tonytech83/dotfiles/pull/1) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Update README.md](https://github.com/tonytech83/powershell-profile/pull/2) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
 - [Migrate app from PostgreSQL to InfluxDB2](https://github.com/tonytech83/hwg-ste-to-db/pull/1) on [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db)
 - [Add installation of Terminal-Icons](https://github.com/tonytech83/powershell-profile/pull/1) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
 - [Sqm price through proxies](https://github.com/tonytech83/sqm-vs-btc/pull/7) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [change sqm price timeout form 30 to 60](https://github.com/tonytech83/sqm-vs-btc/pull/6) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [add keep alive workflow](https://github.com/tonytech83/crossfit-wods/pull/1) on [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods)
 <h3><i>Recent Stars</i></h3>
 
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get activity statistics
+- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 - [shekeriev/gitops-and-k8s](https://github.com/shekeriev/gitops-and-k8s) - Repository for the presentation &#34;GitOps and Kubernetes&#34; prepared for DEV.BG Community Day 2025
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [tonytech83/keepass](https://github.com/tonytech83/keepass) - 
