@@ -85,18 +85,18 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/azure-essentials](https://github.com/tonytech83/azure-essentials) - Microsoft Azure  essentials in one course.
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
-- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - 
+- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - A small Flask &#43; Jinja site for personal branding.
 - [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
 - [tonytech83/Inventory](https://github.com/tonytech83/Inventory) - Django Project for Final Exam
-- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 <h3><i>My latest projects</i></h3>
 
-- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - 
+- [tonytech83/azure-essentials](https://github.com/tonytech83/azure-essentials) - Microsoft Azure  essentials in one course.
+- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - A small Flask &#43; Jinja site for personal branding.
 - [tonytech83/add-wifi-profile](https://github.com/tonytech83/add-wifi-profile) - Minimal script to remove, add, and connect to a Wi‑Fi profile using netsh.
 - [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
 - [tonytech83/garmin-connect](https://github.com/tonytech83/garmin-connect) - Garmin Connect Data Access
-- [tonytech83/flask-email-auth](https://github.com/tonytech83/flask-email-auth) - This repo demonstrates how to generate and send email confirmation links using Flask-Mail and itsdangerous in web apps.
 <h3><i>My recent Pull Requests</i></h3>
 
 - [Add new zinit snippets](https://github.com/tonytech83/dotfiles/pull/1) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
