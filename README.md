@@ -86,10 +86,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/azure-essentials](https://github.com/tonytech83/azure-essentials) - Microsoft Azure  essentials in one course.
+- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - 
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
 - [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - A small Flask &#43; Jinja site for personal branding.
 - [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
-- [tonytech83/Inventory](https://github.com/tonytech83/Inventory) - Django Project for Final Exam
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/azure-essentials](https://github.com/tonytech83/azure-essentials) - Microsoft Azure  essentials in one course.
@@ -106,11 +106,11 @@
 - [Sqm price through proxies](https://github.com/tonytech83/sqm-vs-btc/pull/7) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
+- [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 - [shekeriev/gitops-and-k8s](https://github.com/shekeriev/gitops-and-k8s) - Repository for the presentation &#34;GitOps and Kubernetes&#34; prepared for DEV.BG Community Day 2025
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 
 
 <div align="center">
