@@ -9,7 +9,12 @@
 <br/>
 
 ---
+
 <h3><i>Programming and Markup Languages:</i></h3>
+<a href="/python_cert.md"  style="border-border: 4px solid rgb(200, 107, 0); padding-bottom: 0px;">
+<img height="26" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" alt="Python">
+</a>
+
 <a href="/python_cert.md"><img height="26" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" alt="Python"></a>
 <a href="/cpp.md"><img height="26" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++"></a>
 <a href="/lsa.md"><img height="26" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square" alt="Bash Shell"></a>
@@ -74,7 +79,6 @@
 <a href="#"><img height="26" src="https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=flat-square" alt="Helm"></a>
 <a href="#"><img height="26" src="https://img.shields.io/badge/-VirtualBox-2F61B4?logo=virtualbox&logoColor=white&style=flat-square" alt="VirtualBox"></a>
 
-
 <hr/>
 <div>
   <img height="200" width="48%" align="left" alt="TonyTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
@@ -86,13 +90,13 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/cpp](https://github.com/tonytech83/cpp) - C&#43;&#43; programming knowledge and skills
-- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - 
+- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) -
 - [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
 - [tonytech83/Inventory](https://github.com/tonytech83/Inventory) - Django Project for Final Exam
-- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
+- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile
 <h3><i>My latest projects</i></h3>
 
-- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - 
+- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) -
 - [tonytech83/add-wifi-profile](https://github.com/tonytech83/add-wifi-profile) - Minimal script to remove, add, and connect to a Wi‑Fi profile using netsh.
 - [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db) - collects temperature and humidity from HWg-STE
 - [tonytech83/garmin-connect](https://github.com/tonytech83/garmin-connect) - Garmin Connect Data Access
@@ -110,8 +114,7 @@
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 - [shekeriev/gitops-and-k8s](https://github.com/shekeriev/gitops-and-k8s) - Repository for the presentation &#34;GitOps and Kubernetes&#34; prepared for DEV.BG Community Day 2025
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tonytch83&style=flat-square" />
