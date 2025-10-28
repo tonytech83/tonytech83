@@ -38,7 +38,7 @@
 
 <h3><i>Cloud Hosting and Databases:</i></h3>
 
-[![Azure](https://img.shields.io/badge/-⭐-555555?label=Azure&labelColor=104851&style=for-the-badge&logo=azure&logoColor=fff)](/azure.md)
+[![Azure](https://img.shields.io/badge/-⭐-555555?label=Azure&labelColor=0078D4&style=for-the-badge&logo=azure&logoColor=fff)](/azure.md)
 [![MySQL](https://img.shields.io/badge/-⭐-555555?label=MySQL&labelColor=4479A1&style=for-the-badge&logo=mysql&logoColor=fff)](/mysql_cert.md)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
 [![PostgreSQL](https://img.shields.io/badge/-⭐-555555?label=PostgreSQL&labelColor=4169E1&style=for-the-badge&logo=postgresql&logoColor=fff)](/postgreslq.md)
