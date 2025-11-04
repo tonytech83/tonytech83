@@ -15,7 +15,7 @@
 [![C++](https://img.shields.io/badge/-⭐-555555?label=C%2B%2B&labelColor=00599C&style=for-the-badge&logo=cplusplus&logoColor=fff)](/cpp.md)
 [![Bash](https://img.shields.io/badge/-⭐-555555?label=Bash&labelColor=4EAA25&style=for-the-badge&logo=gnubash&logoColor=fff)](/lsa.md)
 [![HTML](https://img.shields.io/badge/-⭐-555555?label=HTML&labelColor=E34F26&style=for-the-badge&logo=html5&logoColor=fff)](/html_css_cert.md)
-[![CSS](https://img.shields.io/badge/-⭐-555555?label=CSS&labelColor=1572B6&style=for-the-badge&logo=css3&logoColor=fff)](/html_css_cert.md)
+[![CSS](https://img.shields.io/badge/-⭐-555555?label=CSS&labelColor=1572B6&style=for-the-badge&logo=css&logoColor=fff)](/html_css_cert.md)
 [![JavaScript](https://img.shields.io/badge/-⭐-555555?label=JavaScript&labelColor=F7DF1E&style=for-the-badge&logo=javascript&logoColor=323330)](/js_front_end_cert.md)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=fff)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=fff)
