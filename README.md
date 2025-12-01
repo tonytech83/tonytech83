@@ -91,11 +91,11 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/linux-menu](https://github.com/tonytech83/linux-menu) - TUI
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
-- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
