@@ -83,33 +83,33 @@
 
 <hr/>
 <div>
-  <img height="200" width="48%" align="left" alt="TonyTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
-  <img height="200" alt="TonyTech's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890&langs_count=8" />
+  <img height="200" width="48%" align="left" alt="TonyTech's GitHub Stats" src="https://stats.tonytech.xyz/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
+  <img height="200" alt="TonyTech's GitHub Stats" src="https://stats.tonytech.xyz/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890&langs_count=8" />
 </div>
 
 <hr/>
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
+- [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 - [tonytech83/linux-menu](https://github.com/tonytech83/linux-menu) - TUI
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 - [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 - [tonytech83/devpod](https://github.com/tonytech83/devpod) - Proof of concept showing a DevPod with preinstalled tools
 - [tonytech83/azure-essentials](https://github.com/tonytech83/azure-essentials) - Microsoft Azure  essentials in one course.
 - [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - A small Flask &#43; Jinja site for personal branding.
-- [tonytech83/add-wifi-profile](https://github.com/tonytech83/add-wifi-profile) - Minimal script to remove, add, and connect to a Wi‑Fi profile using netsh.
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Fastapi best practices](https://github.com/tonytech83/scraper-api/pull/1) on [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api)
 - [Replace the public proxies with private API providing the sqm price](https://github.com/tonytech83/sqm-vs-btc/pull/8) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Add new zinit snippets](https://github.com/tonytech83/dotfiles/pull/1) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Update README.md](https://github.com/tonytech83/powershell-profile/pull/2) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
 - [Migrate app from PostgreSQL to InfluxDB2](https://github.com/tonytech83/hwg-ste-to-db/pull/1) on [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db)
-- [Add installation of Terminal-Icons](https://github.com/tonytech83/powershell-profile/pull/1) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
 <h3><i>Recent Stars</i></h3>
 
 - [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
