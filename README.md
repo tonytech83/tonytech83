@@ -91,11 +91,11 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
+- [tonytech83/DevOps](https://github.com/tonytech83/DevOps) - DevOps SoftUni cource
+- [tonytech83/linux-menu](https://github.com/tonytech83/linux-menu) - TUI
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 - [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
-- [tonytech83/linux-menu](https://github.com/tonytech83/linux-menu) - TUI
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
@@ -105,11 +105,11 @@
 - [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - A small Flask &#43; Jinja site for personal branding.
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Swith from lsd to eza](https://github.com/tonytech83/dotfiles/pull/2) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Fastapi best practices](https://github.com/tonytech83/scraper-api/pull/1) on [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api)
 - [Replace the public proxies with private API providing the sqm price](https://github.com/tonytech83/sqm-vs-btc/pull/8) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Add new zinit snippets](https://github.com/tonytech83/dotfiles/pull/1) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Update README.md](https://github.com/tonytech83/powershell-profile/pull/2) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
-- [Migrate app from PostgreSQL to InfluxDB2](https://github.com/tonytech83/hwg-ste-to-db/pull/1) on [tonytech83/hwg-ste-to-db](https://github.com/tonytech83/hwg-ste-to-db)
 <h3><i>Recent Stars</i></h3>
 
 - [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
