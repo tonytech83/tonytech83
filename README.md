@@ -92,10 +92,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
+- [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/DevOps](https://github.com/tonytech83/DevOps) - DevOps SoftUni cource
 - [tonytech83/linux-menu](https://github.com/tonytech83/linux-menu) - TUI
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
-- [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
@@ -112,11 +112,11 @@
 - [Update README.md](https://github.com/tonytech83/powershell-profile/pull/2) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
 <h3><i>Recent Stars</i></h3>
 
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
-- [shekeriev/gitops-and-k8s](https://github.com/shekeriev/gitops-and-k8s) - Repository for the presentation &#34;GitOps and Kubernetes&#34; prepared for DEV.BG Community Day 2025
 
 
 <div align="center">
