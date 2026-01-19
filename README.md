@@ -105,11 +105,11 @@
 - [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - A small Flask &#43; Jinja site for personal branding.
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Add spinner](https://github.com/tonytech83/dotfiles/pull/4) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Change setup with spinner and update README.md](https://github.com/tonytech83/dotfiles/pull/3) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Swith from lsd to eza](https://github.com/tonytech83/dotfiles/pull/2) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Fastapi best practices](https://github.com/tonytech83/scraper-api/pull/1) on [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api)
 - [Replace the public proxies with private API providing the sqm price](https://github.com/tonytech83/sqm-vs-btc/pull/8) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [Add new zinit snippets](https://github.com/tonytech83/dotfiles/pull/1) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Update README.md](https://github.com/tonytech83/powershell-profile/pull/2) on [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile)
 <h3><i>Recent Stars</i></h3>
 
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
