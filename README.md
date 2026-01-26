@@ -91,18 +91,18 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - 
+- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - 
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/DevOps](https://github.com/tonytech83/DevOps) - DevOps SoftUni cource
-- [tonytech83/linux-menu](https://github.com/tonytech83/linux-menu) - TUI
-- [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - 
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 - [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 - [tonytech83/devpod](https://github.com/tonytech83/devpod) - Proof of concept showing a DevPod with preinstalled tools
 - [tonytech83/azure-essentials](https://github.com/tonytech83/azure-essentials) - Microsoft Azure  essentials in one course.
-- [tonytech83/portfolio](https://github.com/tonytech83/portfolio) - A small Flask &#43; Jinja site for personal branding.
 <h3><i>My recent Pull Requests</i></h3>
 
 - [Add spinner](https://github.com/tonytech83/dotfiles/pull/4) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
