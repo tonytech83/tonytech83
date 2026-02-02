@@ -91,14 +91,14 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - 
-- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - 
+- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines to deliver reliable and high-performing applications
+- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/powershell-profile](https://github.com/tonytech83/powershell-profile) - Custom PowerShell profile 
 - [tonytech83/DevOps](https://github.com/tonytech83/DevOps) - DevOps SoftUni cource
 <h3><i>My latest projects</i></h3>
 
-- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - 
+- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines to deliver reliable and high-performing applications
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 - [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 - [tonytech83/devpod](https://github.com/tonytech83/devpod) - Proof of concept showing a DevPod with preinstalled tools
