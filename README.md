@@ -92,10 +92,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines to deliver reliable and high-performing applications
-- [tonytech83/Inventory](https://github.com/tonytech83/Inventory) - Django Project for Final Exam
-- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
-- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 - [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
+- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
+- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
+- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
