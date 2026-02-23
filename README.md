@@ -91,25 +91,25 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines to deliver reliable and high-performing applications
+- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines
+- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
-- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines to deliver reliable and high-performing applications
+- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 - [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 - [tonytech83/devpod](https://github.com/tonytech83/devpod) - Proof of concept showing a DevPod with preinstalled tools
 <h3><i>My recent Pull Requests</i></h3>
 
+- [update README.md](https://github.com/tonytech83/dotfiles/pull/5) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Add spinner](https://github.com/tonytech83/dotfiles/pull/4) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Change setup with spinner and update README.md](https://github.com/tonytech83/dotfiles/pull/3) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Swith from lsd to eza](https://github.com/tonytech83/dotfiles/pull/2) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Fastapi best practices](https://github.com/tonytech83/scraper-api/pull/1) on [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api)
-- [Replace the public proxies with private API providing the sqm price](https://github.com/tonytech83/sqm-vs-btc/pull/8) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
