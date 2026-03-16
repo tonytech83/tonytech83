@@ -91,8 +91,8 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 - [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines
+- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
@@ -115,7 +115,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 
 
