@@ -51,6 +51,7 @@
 
 [![Linux](https://img.shields.io/badge/-⭐-555555?label=Linux&labelColor=FCC624&style=for-the-badge&logo=linux&logoColor=000)](/lsa.md)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff)
+[![CICD](https://img.shields.io/badge/-%E2%AD%90-555555?label=DevOps&labelColor=36b5ac&style=for-the-badge&logo=devops&logoColor=000)](/cicd.md)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=fff)
