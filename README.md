@@ -92,18 +92,18 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 - [tonytech83/fact-py-cpp](https://github.com/tonytech83/fact-py-cpp) - factorial — Python vs C&#43;&#43; benchmark (Bazel 9 &#43; GMP)
 - [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
 - [tonytech83/fact-py-cpp](https://github.com/tonytech83/fact-py-cpp) - factorial — Python vs C&#43;&#43; benchmark (Bazel 9 &#43; GMP)
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 - [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
-- [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api) - 
 <h3><i>My recent Pull Requests</i></h3>
 
 - [update README.md](https://github.com/tonytech83/dotfiles/pull/5) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
