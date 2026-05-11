@@ -106,11 +106,11 @@
 - [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 <h3><i>My recent Pull Requests</i></h3>
 
+- [New fastapi project structure](https://github.com/tonytech83/llm-init-trblsh/pull/1) on [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh)
 - [update README.md](https://github.com/tonytech83/dotfiles/pull/5) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Add spinner](https://github.com/tonytech83/dotfiles/pull/4) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Change setup with spinner and update README.md](https://github.com/tonytech83/dotfiles/pull/3) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Swith from lsd to eza](https://github.com/tonytech83/dotfiles/pull/2) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Fastapi best practices](https://github.com/tonytech83/scraper-api/pull/1) on [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api)
 <h3><i>Recent Stars</i></h3>
 
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
