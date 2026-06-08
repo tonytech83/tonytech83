@@ -92,18 +92,18 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
+- [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
 - [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
 - [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 - [tonytech83/fact-py-cpp](https://github.com/tonytech83/fact-py-cpp) - factorial — Python vs C&#43;&#43; benchmark (Bazel 9 &#43; GMP)
-- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
+- [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
 - [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
 - [tonytech83/fact-py-cpp](https://github.com/tonytech83/fact-py-cpp) - factorial — Python vs C&#43;&#43; benchmark (Bazel 9 &#43; GMP)
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
-- [tonytech83/cicd-and-monitoring](https://github.com/tonytech83/cicd-and-monitoring) - Design, automate, and monitor CI/CD pipelines
-- [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
 <h3><i>My recent Pull Requests</i></h3>
 
 - [New fastapi project structure](https://github.com/tonytech83/llm-init-trblsh/pull/1) on [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh)
