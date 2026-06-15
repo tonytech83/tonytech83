@@ -92,10 +92,10 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
 - [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
 - [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
-- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - UNDER CONSTRUCTION - Warranty Keeper is a Django web-based application designed to manage your warranties and supplier details efficiently.
 - [tonytech83/fact-py-cpp](https://github.com/tonytech83/fact-py-cpp) - factorial — Python vs C&#43;&#43; benchmark (Bazel 9 &#43; GMP)
 <h3><i>My latest projects</i></h3>
 
@@ -113,11 +113,11 @@
 - [Swith from lsd to eza](https://github.com/tonytech83/dotfiles/pull/2) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 <h3><i>Recent Stars</i></h3>
 
+- [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) - Python 3 API wrapper for Garmin Connect to get statistics and set activities
 
 
 <div align="center">
