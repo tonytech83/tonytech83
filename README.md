@@ -92,9 +92,9 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/warranty_keeper](https://github.com/tonytech83/warranty_keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
-- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
+- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
+- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
 - [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
 - [tonytech83/fact-py-cpp](https://github.com/tonytech83/fact-py-cpp) - factorial — Python vs C&#43;&#43; benchmark (Bazel 9 &#43; GMP)
 <h3><i>My latest projects</i></h3>
@@ -106,11 +106,11 @@
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My recent Pull Requests</i></h3>
 
-- [New fastapi project structure](https://github.com/tonytech83/llm-init-trblsh/pull/1) on [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh)
-- [update README.md](https://github.com/tonytech83/dotfiles/pull/5) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Add spinner](https://github.com/tonytech83/dotfiles/pull/4) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Change setup with spinner and update README.md](https://github.com/tonytech83/dotfiles/pull/3) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Swith from lsd to eza](https://github.com/tonytech83/dotfiles/pull/2) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [enhancement: Sort warranties via columns](https://github.com/tonytech83/warranty-keeper/pull/15) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
+- [enhancement: Open in new window when click on supplier](https://github.com/tonytech83/warranty-keeper/pull/13) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
+- [enhancement: Dashboard rearrangement](https://github.com/tonytech83/warranty-keeper/pull/11) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
+- [issue: Missing invoice image](https://github.com/tonytech83/warranty-keeper/pull/9) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
+- [enchantment: Move the database to a separate](https://github.com/tonytech83/warranty-keeper/pull/7) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 <h3><i>Recent Stars</i></h3>
 
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana dashboard
