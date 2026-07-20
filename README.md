@@ -92,11 +92,11 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
+- [tonytech83/devpod](https://github.com/tonytech83/devpod) - Proof of concept showing a DevPod with preinstalled tools
 - [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
-- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
-- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
