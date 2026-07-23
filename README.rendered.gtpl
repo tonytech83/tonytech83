@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> '${QUOTE_TEXT}' </i></p>
- <p align="center"><i>- ${QUOTE_AUTHOR} </i></p>
+ <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
+ <p align="center"><i>- Hal Finney </i></p>
 </h3>
 
 <br/>
@@ -90,33 +90,21 @@
 <hr/>
 
 <h3><i>Currently working on</i></h3>
-
-- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
-- [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
-- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
-- [tonytech83/devpod](https://github.com/tonytech83/devpod) - Proof of concept showing a DevPod with preinstalled tools
-- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 <h3><i>My latest projects</i></h3>
-
-- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
-- [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
-- [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
-- [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
-- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 <h3><i>My recent Pull Requests</i></h3>
-
-- [Detect the correct path by the presence of the `/etc/zsh` directory (the](https://github.com/tonytech83/dotfiles/pull/16) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Fix install issues on openSUSE, Rocky/RHEL and CentOS 7](https://github.com/tonytech83/dotfiles/pull/14) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Fix eza for musl distros and verify each tool after install](https://github.com/tonytech83/dotfiles/pull/12) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Remove aur helper](https://github.com/tonytech83/dotfiles/pull/10) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [fix the installation of fd](https://github.com/tonytech83/dotfiles/pull/8) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 <h3><i>Recent Stars</i></h3>
-
-- [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana
-- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 
 <div align="center">
