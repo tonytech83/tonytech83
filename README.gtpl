@@ -1,9 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like </i></p>
- <p><i> everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
- <p align="center"><i>- Hal Finney </i></p> 
+ <p><i> '${QUOTE_TEXT}' </i></p>
+ <p align="center"><i>- ${QUOTE_AUTHOR} </i></p>
 </h3>
 
 <br/>

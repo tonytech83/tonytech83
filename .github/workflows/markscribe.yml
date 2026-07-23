@@ -17,6 +17,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Pick quote of the week
+        run: |
+          WEEK=$(date +%V)
+          COUNT=$(jq 'length' quotes/quotes.json)
+          IDX=$(( (10#$WEEK) % COUNT ))
+          {
+            echo "QUOTE_TEXT=$(jq -r ".[$IDX].text" quotes/quotes.json)"
+            echo "QUOTE_AUTHOR=$(jq -r ".[$IDX].author" quotes/quotes.json)"
+          } >> "$GITHUB_ENV"
+
+      - name: Inject quote into template
+        run: envsubst '${QUOTE_TEXT} ${QUOTE_AUTHOR}' < README.gtpl > README.rendered.gtpl
+
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
