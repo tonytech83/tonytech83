@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
- <p align="center"><i>- Nikos Kazantzakis </i></p>
+ <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
+ <p align="center"><i>- Hal Finney </i></p>
 </h3>
 
 <br/>
@@ -91,11 +91,11 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
-- [tonytech83/devpod](https://github.com/tonytech83/devpod) - Proof of concept showing a DevPod with preinstalled tools
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
@@ -105,18 +105,18 @@
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My recent Pull Requests</i></h3>
 
+- [add functions.zsh file for custom functions](https://github.com/tonytech83/dotfiles/pull/17) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Add search ability](https://github.com/tonytech83/warranty-keeper/pull/19) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
+- [add C lang comparison](https://github.com/tonytech83/bazel-factorial/pull/2) on [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial)
+- [clear and refactor the code](https://github.com/tonytech83/bazel-factorial/pull/1) on [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial)
 - [Detect the correct path by the presence of the `/etc/zsh` directory (the](https://github.com/tonytech83/dotfiles/pull/16) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Fix install issues on openSUSE, Rocky/RHEL and CentOS 7](https://github.com/tonytech83/dotfiles/pull/14) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Fix eza for musl distros and verify each tool after install](https://github.com/tonytech83/dotfiles/pull/12) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Remove aur helper](https://github.com/tonytech83/dotfiles/pull/10) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [fix the installation of fd](https://github.com/tonytech83/dotfiles/pull/8) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 <h3><i>Recent Stars</i></h3>
 
+- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
+- [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 
 
 <div align="center">
