@@ -106,11 +106,6 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-
-<div align="center">
 [![GitHub followers](https://img.shields.io/github/followers/tonytech83?logo=GitHub&style=for-the-badge)](https://github.com/tonytech83)
 [![GitHub Stars](https://img.shields.io/github/stars/tonytech83?logo=github&style=for-the-badge)](https://github.com/tonytech83)
 <img src="https://komarev.com/ghpvc/?username=tonytech83&style=for-the-badge&logo=github&label=Visitors&color=0366d6" />
-<img src="https://komarev.com/ghpvc/?username=tonytech83&style=flat-square" />
-
-</div>
