@@ -91,11 +91,11 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
+- [aiden-takeda/github-basics](https://github.com/aiden-takeda/github-basics) - Some test regarding commits and branches
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
-- [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
-- [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
@@ -105,11 +105,11 @@
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Added a separate class for file](https://github.com/aiden-takeda/rename/pull/1) on [aiden-takeda/rename](https://github.com/aiden-takeda/rename)
 - [add functions.zsh file for custom functions](https://github.com/tonytech83/dotfiles/pull/17) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Add search ability](https://github.com/tonytech83/warranty-keeper/pull/19) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 - [add C lang comparison](https://github.com/tonytech83/bazel-factorial/pull/2) on [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial)
 - [clear and refactor the code](https://github.com/tonytech83/bazel-factorial/pull/1) on [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial)
-- [Detect the correct path by the presence of the `/etc/zsh` directory (the](https://github.com/tonytech83/dotfiles/pull/16) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 <h3><i>Recent Stars</i></h3>
 
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
@@ -120,5 +120,9 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=tonytch83&style=flat-square" />
+[![GitHub followers](https://img.shields.io/github/followers/tonytech83?logo=GitHub&style=for-the-badge)](https://github.com/tonytech83)
+[![GitHub Stars](https://img.shields.io/github/stars/tonytech83?logo=github&style=for-the-badge)](https://github.com/tonytech83)
+<img src="https://komarev.com/ghpvc/?username=tonytech83&style=for-the-badge&logo=github&label=Visitors&color=0366d6" />
+<img src="https://komarev.com/ghpvc/?username=tonytech83&style=flat-square" />
+
 </div>
