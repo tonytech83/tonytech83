@@ -118,6 +118,6 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
 
-[![GitHub followers](https://img.shields.io/github/followers/tonytech83?logo=GitHub&style=for-the-badge)](https://github.com/tonytech83)
-[![GitHub Stars](https://img.shields.io/github/stars/tonytech83?logo=github&style=for-the-badge)](https://github.com/tonytech83)
+[![GitHub followers](https://img.shields.io/github/followers/tonytech83?logo=GitHub&style=for-the-badge&color=2EA043)](https://github.com/tonytech83)
+[![GitHub Stars](https://img.shields.io/github/stars/tonytech83?logo=github&style=for-the-badge&color=FFC83D&)](https://github.com/tonytech83)
 <img src="https://komarev.com/ghpvc/?username=tonytech83&style=for-the-badge&logo=github&label=Visitors&color=0366d6" />
