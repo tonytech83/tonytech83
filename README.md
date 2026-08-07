@@ -8,6 +8,7 @@
 <br/>
 
 ---
+
 <h3><i>Programming and Markup Languages:</i></h3>
 
 [![Python](https://img.shields.io/badge/-⭐-555555?label=Python&labelColor=3776AB&style=for-the-badge&logo=python&logoColor=fff)](/python_cert.md)
@@ -22,7 +23,6 @@
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff)
 
-
 <h3><i>Frameworks and Libraries:</i></h3>
 
 [![Django](https://img.shields.io/badge/-⭐-555555?label=Django&labelColor=092E20&style=for-the-badge&logo=django&logoColor=fff)](/django_cert.md)
@@ -34,7 +34,6 @@
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=fff)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
 
-
 <h3><i>Cloud Hosting and Databases:</i></h3>
 
 [![Azure](https://img.shields.io/badge/-⭐-555555?label=Azure&labelColor=0078D4&style=for-the-badge&logo=azure&logoColor=fff)](/azure.md)
@@ -44,7 +43,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=fff)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
-
 
 <h3><i>Software and Tools:</i></h3>
 
@@ -91,7 +89,7 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
+- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) -
 - [aiden-takeda/github-basics](https://github.com/aiden-takeda/github-basics) - Some test regarding commits and branches
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
@@ -116,7 +114,7 @@
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
+- [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) -
 
 [![GitHub followers](https://img.shields.io/github/followers/tonytech83?logo=GitHub&style=for-the-badge&color=2EA043)](https://github.com/tonytech83)
 [![GitHub Stars](https://img.shields.io/github/stars/tonytech83?logo=github&style=for-the-badge&color=FFC83D&)](https://github.com/tonytech83)
