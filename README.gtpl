@@ -63,11 +63,11 @@
 ![ZABBIX](https://img.shields.io/badge/ZABBIX-c72229?style=for-the-badge&logo=zabbix&logoColor=fff)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=fff)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=fff)
-![Ansible](https://img.shields.io/badge/-⭐-555555?Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=fff)(./certs/cont-and-infra.md)
+![Ansible](https://img.shields.io/badge/-⭐-555555?label=Ansible&labelColor=EE0000?style=for-the-badge&logo=ansible&logoColor=fff)(./certs/cont-and-infra.md)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=fff)
 ![openmediavault](https://img.shields.io/badge/openmediavault-5DACDF?style=for-the-badge&logo=openmediavault&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)
-![Terraform](https://img.shields.io/badge/-⭐-555555?Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff)(./certs/cont-and-infra.md)
+![Terraform](https://img.shields.io/badge/-⭐-555555?label=Terraform&labelColor=844FBA?style=for-the-badge&logo=terraform&logoColor=fff)(./certs/cont-and-infra.md)
 ![dwm](https://img.shields.io/badge/dwm-1177AA?style=for-the-badge&logo=dwm&logoColor=fff)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=fff)
 [![Kubernetes](https://img.shields.io/badge/-⭐-555555?label=Kubernetes&labelColor=326CE5&style=for-the-badge&logo=kubernetes&logoColor=fff)](./certs/k8s.md)
@@ -100,7 +100,9 @@
 {{- end }}
 
 <div align="center">
+
 [![GitHub followers](https://img.shields.io/github/followers/tonytech83?logo=GitHub&style=for-the-badge&color=2EA043)](https://github.com/tonytech83)
 [![GitHub Stars](https://img.shields.io/github/stars/tonytech83?logo=github&style=for-the-badge&color=FFC83D&)](https://github.com/tonytech83)
 <img src="https://komarev.com/ghpvc/?username=tonytech83&style=for-the-badge&logo=github&label=Visitors&color=0366d6" />
+
 </div>
