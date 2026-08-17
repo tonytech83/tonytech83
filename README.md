@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
- <p align="center"><i>- Nikos Kazantzakis </i></p>
+ <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
+ <p align="center"><i>- Hal Finney </i></p>
 </h3>
 
 <br/>
@@ -85,10 +85,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
+- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [aiden-takeda/reactjs-food-order](https://github.com/aiden-takeda/reactjs-food-order) - React.js food order project
+- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
 - [aiden-takeda/github-basics](https://github.com/aiden-takeda/github-basics) - Some test regarding commits and branches
-- [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
@@ -98,11 +98,11 @@
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My recent Pull Requests</i></h3>
 
-- [Feat/workflow split](https://github.com/tonytech83/dotfiles/pull/19) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Feat/workflow split](https://github.com/tonytech83/dotfiles/pull/18) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Fixed item handler logic](https://github.com/aiden-takeda/reactjs-food-order/pull/1) on [aiden-takeda/reactjs-food-order](https://github.com/aiden-takeda/reactjs-food-order)
-- [Added a separate class for file](https://github.com/aiden-takeda/rename/pull/1) on [aiden-takeda/rename](https://github.com/aiden-takeda/rename)
-- [add functions.zsh file for custom functions](https://github.com/tonytech83/dotfiles/pull/17) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Revert &#34;Rename spellchesk.yml to shellchesk.yml&#34;](https://github.com/tonytech83/dotfiles/pull/26) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Rename spellchesk.yml to shellchesk.yml](https://github.com/tonytech83/dotfiles/pull/25) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Rename spellchesk.yml to shellchesk.yml](https://github.com/tonytech83/dotfiles/pull/24) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Upgrade code.toml, zen.toml and aliases.zsh](https://github.com/tonytech83/dotfiles/pull/23) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Upgrade Django version to 5.2.16](https://github.com/tonytech83/warranty-keeper/pull/22) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 <h3><i>Recent Stars</i></h3>
 
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
