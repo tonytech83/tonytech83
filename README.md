@@ -51,7 +51,7 @@
 [![Linux](https://img.shields.io/badge/-⭐-555555?label=Linux&labelColor=FCC624&style=for-the-badge&logo=linux&logoColor=000)](./certs/lsa.md)
 [![CICD](https://img.shields.io/badge/-%E2%AD%90-555555?label=DevOps&labelColor=36b5ac&style=for-the-badge&logo=devops&logoColor=000)](./certs/cicd.md)
 [![Jupyter](https://img.shields.io/badge/-⭐-555555?label=Jupyter&labelColor=F37626&style=for-the-badge&logo=jupyter&logoColor=fff)](./certs/jupyter.md)
-[![Git](https://img.shields.io/badge/-⭐-555555?label=Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](./certs/git.md)
+[![Git](https://img.shields.io/badge/-⭐-555555?label=Git&labelColor=F05032&style=for-the-badge&logo=git&logoColor=fff)](./certs/git.md)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 [![GitHub Actions](https://img.shields.io/badge/-⭐-555555?label=GitHub%20Actions&labelColor=2088FF&style=for-the-badge&logo=githubactions&logoColor=fff)](./certs/devops.md)
 ![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=fff)
