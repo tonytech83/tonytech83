@@ -51,7 +51,7 @@
 [![Linux](https://img.shields.io/badge/-⭐-555555?label=Linux&labelColor=FCC624&style=for-the-badge&logo=linux&logoColor=000)](./certs/lsa.md)
 [![CICD](https://img.shields.io/badge/-%E2%AD%90-555555?label=DevOps&labelColor=36b5ac&style=for-the-badge&logo=devops&logoColor=000)](./certs/cicd.md)
 [![Jupyter](https://img.shields.io/badge/-⭐-555555?label=Jupyter&labelColor=F37626&style=for-the-badge&logo=jupyter&logoColor=fff)](./certs/jupyter.md)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+[![Git](https://img.shields.io/badge/-⭐-555555?label=Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](./certs/git.md)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 [![GitHub Actions](https://img.shields.io/badge/-⭐-555555?label=GitHub%20Actions&labelColor=2088FF&style=for-the-badge&logo=githubactions&logoColor=fff)](./certs/devops.md)
 ![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=fff)
@@ -84,8 +84,8 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
+- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [aiden-takeda/reactjs-food-order](https://github.com/aiden-takeda/reactjs-food-order) - React.js food order project
 - [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
 - [aiden-takeda/github-basics](https://github.com/aiden-takeda/github-basics) - Some test regarding commits and branches
@@ -98,11 +98,11 @@
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My recent Pull Requests</i></h3>
 
+- [upgrade sqlparse version to 0.6.0](https://github.com/tonytech83/warranty-keeper/pull/24) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 - [Revert &#34;Rename spellchesk.yml to shellchesk.yml&#34;](https://github.com/tonytech83/dotfiles/pull/26) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Rename spellchesk.yml to shellchesk.yml](https://github.com/tonytech83/dotfiles/pull/25) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Rename spellchesk.yml to shellchesk.yml](https://github.com/tonytech83/dotfiles/pull/24) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 - [Upgrade code.toml, zen.toml and aliases.zsh](https://github.com/tonytech83/dotfiles/pull/23) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Upgrade Django version to 5.2.16](https://github.com/tonytech83/warranty-keeper/pull/22) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 <h3><i>Recent Stars</i></h3>
 
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
