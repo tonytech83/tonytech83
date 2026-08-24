@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
- <p align="center"><i>- Nikos Kazantzakis </i></p>
+ <p><i> 'If you don't believe it or don't get it, I don't have the time to try to convince you, sorry!' </i></p>
+ <p align="center"><i>- Satoshi Nakamoto </i></p>
 </h3>
 
 <br/>
@@ -86,8 +86,8 @@
 
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [aiden-takeda/reactjs-food-order](https://github.com/aiden-takeda/reactjs-food-order) - React.js food order project
 - [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
+- [aiden-takeda/reactjs-food-order](https://github.com/aiden-takeda/reactjs-food-order) - React.js food order project
 - [aiden-takeda/github-basics](https://github.com/aiden-takeda/github-basics) - Some test regarding commits and branches
 <h3><i>My latest projects</i></h3>
 
