@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'If you don't believe it or don't get it, I don't have the time to try to convince you, sorry!' </i></p>
- <p align="center"><i>- Satoshi Nakamoto </i></p>
+ <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
+ <p align="center"><i>- Hal Finney </i></p>
 </h3>
 
 <br/>
@@ -85,10 +85,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
-- [aiden-takeda/reactjs-food-order](https://github.com/aiden-takeda/reactjs-food-order) - React.js food order project
-- [aiden-takeda/github-basics](https://github.com/aiden-takeda/github-basics) - Some test regarding commits and branches
+- [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
+- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
+- [long-beach-city-crew/vscode-settings](https://github.com/long-beach-city-crew/vscode-settings) - 
+- [long-beach-city-crew/zed-settings](https://github.com/long-beach-city-crew/zed-settings) - 
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
@@ -98,18 +98,18 @@
 - [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My recent Pull Requests</i></h3>
 
-- [upgrade sqlparse version to 0.6.0](https://github.com/tonytech83/warranty-keeper/pull/24) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
-- [Revert &#34;Rename spellchesk.yml to shellchesk.yml&#34;](https://github.com/tonytech83/dotfiles/pull/26) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Rename spellchesk.yml to shellchesk.yml](https://github.com/tonytech83/dotfiles/pull/25) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Rename spellchesk.yml to shellchesk.yml](https://github.com/tonytech83/dotfiles/pull/24) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Upgrade code.toml, zen.toml and aliases.zsh](https://github.com/tonytech83/dotfiles/pull/23) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Interactive search and pagination](https://github.com/tonytech83/warranty-keeper/pull/26) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
+- [Potential fix for code scanning alert no. 1: Information exposure through an exception](https://github.com/tonytech83/inventory/pull/9) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
+- [Potential fix for code scanning alert no. 5: DOM text reinterpreted as HTML](https://github.com/tonytech83/inventory/pull/8) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
+- [Potential fix for code scanning alert no. 6: DOM text reinterpreted as HTML](https://github.com/tonytech83/inventory/pull/7) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
+- [Requirements versions upgrade](https://github.com/tonytech83/sqm-vs-btc/pull/10) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
+- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
+- [officialrajdeepsingh/nerd-fonts-installer](https://github.com/officialrajdeepsingh/nerd-fonts-installer) - Nerd Fonts Installer is a bash script that allows users to easily install any nerd font in a Debian-based distribution by following a few simple steps.
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 - [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana
-- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [letsdoautomation/pdq-deploy-free](https://github.com/letsdoautomation/pdq-deploy-free) - 
 
 <div align="center">
 
