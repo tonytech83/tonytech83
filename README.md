@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
- <p align="center"><i>- Hal Finney </i></p>
+ <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
+ <p align="center"><i>- Nikos Kazantzakis </i></p>
 </h3>
 
 <br/>
@@ -84,11 +84,11 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
+- [long-beach-city-crew/rename](https://github.com/long-beach-city-crew/rename) - rename
+- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [long-beach-city-crew/vscode-settings](https://github.com/long-beach-city-crew/vscode-settings) - 
-- [long-beach-city-crew/zed-settings](https://github.com/long-beach-city-crew/zed-settings) - 
+- [long-beach-city-crew/zed-settings](https://github.com/long-beach-city-crew/zed-settings) - zed ide user settings
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
@@ -105,11 +105,11 @@
 - [Requirements versions upgrade](https://github.com/tonytech83/sqm-vs-btc/pull/10) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+- [pashkulev-ai-projects/agentic-design-patterns](https://github.com/pashkulev-ai-projects/agentic-design-patterns) - 10 hands-on demos covering every major agentic workflow design pattern —  built with the OpenAI Agents SDK
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [officialrajdeepsingh/nerd-fonts-installer](https://github.com/officialrajdeepsingh/nerd-fonts-installer) - Nerd Fonts Installer is a bash script that allows users to easily install any nerd font in a Debian-based distribution by following a few simple steps.
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
-- [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
-- [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) - Zabbix plugin for Grafana
 
 <div align="center">
 
