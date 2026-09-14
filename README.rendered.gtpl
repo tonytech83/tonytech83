@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
- <p align="center"><i>- Nikos Kazantzakis </i></p>
+ <p><i> 'If you don't believe it or don't get it, I don't have the time to try to convince you, sorry!' </i></p>
+ <p align="center"><i>- Satoshi Nakamoto </i></p>
 </h3>
 
 <br/>

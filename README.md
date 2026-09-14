@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
- <p align="center"><i>- Nikos Kazantzakis </i></p>
+ <p><i> 'If you don't believe it or don't get it, I don't have the time to try to convince you, sorry!' </i></p>
+ <p align="center"><i>- Satoshi Nakamoto </i></p>
 </h3>
 
 <br/>
@@ -84,18 +84,18 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
+- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
 - [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
 - [long-beach-city-crew/rename](https://github.com/long-beach-city-crew/rename) - rename
 - [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [long-beach-city-crew/zed-settings](https://github.com/long-beach-city-crew/zed-settings) - zed ide user settings
 <h3><i>My latest projects</i></h3>
 
+- [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
 - [tonytech83/learn-go](https://github.com/tonytech83/learn-go) - A collection of learning materials, exercises, and examples for mastering the Go programming language.
 - [tonytech83/containerization-and-infrastructure](https://github.com/tonytech83/containerization-and-infrastructure) - A comprehensive course covering containerization with Docker, orchestration tools, and Infrastructure as Code using Terraform and Ansible.
 - [tonytech83/llm-init-trblsh](https://github.com/tonytech83/llm-init-trblsh) - Automated initial troubleshooting of failed Linux systemd services using LLM analysis
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
-- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My recent Pull Requests</i></h3>
 
 - [Interactive search and pagination](https://github.com/tonytech83/warranty-keeper/pull/26) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
@@ -105,11 +105,11 @@
 - [Requirements versions upgrade](https://github.com/tonytech83/sqm-vs-btc/pull/10) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [pashkulev-ai-projects/agentic-design-patterns](https://github.com/pashkulev-ai-projects/agentic-design-patterns) - 10 hands-on demos covering every major agentic workflow design pattern —  built with the OpenAI Agents SDK
 - [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [officialrajdeepsingh/nerd-fonts-installer](https://github.com/officialrajdeepsingh/nerd-fonts-installer) - Nerd Fonts Installer is a bash script that allows users to easily install any nerd font in a Debian-based distribution by following a few simple steps.
-- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 
 <div align="center">
 
