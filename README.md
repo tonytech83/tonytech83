@@ -76,7 +76,7 @@
 
 <hr/>
 <div>
-  <img height="200" width="48%" align="left" alt="TonyTech's GitHub Stats" src="https://stats.tonytech.xyz/api?username=tonytech83&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
+  <img height="200" width="48%" align="left" alt="TonyTech's GitHub Stats" src="https://stats.tonytech.xyz/api?username=tonytech83&v=1&show_icons=true&hide_border=true&title_color=FF6D28&text_color=A8E890&border_color=0c1a25&theme=transparent" />
   <img height="200" alt="TonyTech's GitHub Stats" src="https://stats.tonytech.xyz/api/top-langs/?username=tonytech83&layout=compact&hide_border=true&bg_color=ffffff00&title_color=FF6D28&text_color=A8E890&langs_count=8&v=2" />
 </div>
 
@@ -84,11 +84,11 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
-- [long-beach-city-crew/gh-variables](https://github.com/long-beach-city-crew/gh-variables) - GitHub variables
-- [long-beach-city-crew/gh-events-deep-dive](https://github.com/long-beach-city-crew/gh-events-deep-dive) - Events Deep Dive
-- [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
+- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
+- [long-beach-city-crew/vscode-settings](https://github.com/long-beach-city-crew/vscode-settings) - vscode user settings
+- [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
+- [long-beach-city-crew/gh-events-deep-dive](https://github.com/long-beach-city-crew/gh-events-deep-dive) - Events Deep Dive
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
