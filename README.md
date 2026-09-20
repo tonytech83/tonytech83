@@ -84,11 +84,11 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
+- [long-beach-city-crew/gh-variables](https://github.com/long-beach-city-crew/gh-variables) - GitHub variables
+- [long-beach-city-crew/gh-events-deep-dive](https://github.com/long-beach-city-crew/gh-events-deep-dive) - Events Deep Dive
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
-- [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
-- [long-beach-city-crew/rename](https://github.com/long-beach-city-crew/rename) - rename
-- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
@@ -98,11 +98,11 @@
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 <h3><i>My recent Pull Requests</i></h3>
 
+- [added comment](https://github.com/long-beach-city-crew/gh-events-deep-dive/pull/2) on [long-beach-city-crew/gh-events-deep-dive](https://github.com/long-beach-city-crew/gh-events-deep-dive)
 - [Interactive search and pagination](https://github.com/tonytech83/warranty-keeper/pull/26) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 - [Potential fix for code scanning alert no. 1: Information exposure through an exception](https://github.com/tonytech83/inventory/pull/9) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
 - [Potential fix for code scanning alert no. 5: DOM text reinterpreted as HTML](https://github.com/tonytech83/inventory/pull/8) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
 - [Potential fix for code scanning alert no. 6: DOM text reinterpreted as HTML](https://github.com/tonytech83/inventory/pull/7) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
-- [Requirements versions upgrade](https://github.com/tonytech83/sqm-vs-btc/pull/10) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
