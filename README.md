@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
- <p align="center"><i>- Hal Finney </i></p>
+ <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
+ <p align="center"><i>- Nikos Kazantzakis </i></p>
 </h3>
 
 <br/>
@@ -85,10 +85,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
+- [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
 - [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
 - [long-beach-city-crew/vscode-settings](https://github.com/long-beach-city-crew/vscode-settings) - vscode user settings
-- [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
-- [long-beach-city-crew/gh-events-deep-dive](https://github.com/long-beach-city-crew/gh-events-deep-dive) - Events Deep Dive
+- [long-beach-city-crew/gh-variables](https://github.com/long-beach-city-crew/gh-variables) - GitHub variables
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
@@ -98,11 +98,11 @@
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 <h3><i>My recent Pull Requests</i></h3>
 
-- [added comment](https://github.com/long-beach-city-crew/gh-events-deep-dive/pull/2) on [long-beach-city-crew/gh-events-deep-dive](https://github.com/long-beach-city-crew/gh-events-deep-dive)
-- [Interactive search and pagination](https://github.com/tonytech83/warranty-keeper/pull/26) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
-- [Potential fix for code scanning alert no. 1: Information exposure through an exception](https://github.com/tonytech83/inventory/pull/9) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
-- [Potential fix for code scanning alert no. 5: DOM text reinterpreted as HTML](https://github.com/tonytech83/inventory/pull/8) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
-- [Potential fix for code scanning alert no. 6: DOM text reinterpreted as HTML](https://github.com/tonytech83/inventory/pull/7) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
+- [to_dev](https://github.com/tonytech83/dotfiles/pull/41) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Dev](https://github.com/tonytech83/dotfiles/pull/40) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Dev](https://github.com/tonytech83/dotfiles/pull/39) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Dev](https://github.com/tonytech83/dotfiles/pull/38) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Feat/migrate to posix](https://github.com/tonytech83/dotfiles/pull/37) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 <h3><i>Recent Stars</i></h3>
 
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
