@@ -18,9 +18,6 @@
 [![JavaScript](https://img.shields.io/badge/-⭐-555555?label=JavaScript&labelColor=F7DF1E&style=for-the-badge&logo=javascript&logoColor=323330)](./certs/js_front_end_cert.md)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=fff)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=fff)
-![RegEx](https://img.shields.io/badge/RegEx-3e69cd?style=for-the-badge&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff)
 
 
 <h3><i>Frameworks and Libraries:</i></h3>
@@ -31,8 +28,6 @@
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=fff)
 [![NumPy](https://img.shields.io/badge/-⭐-555555?label=NumPy&labelColor=013243&style=for-the-badge&logo=numpy&logoColor=fff)](./certs/jupyter.md)
 [![Pandas](https://img.shields.io/badge/-⭐-555555?label=Pandas&labelColor=150458&style=for-the-badge&logo=pandas&logoColor=fff)](./certs/jupyter.md)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=fff)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
 
 
 <h3><i>Cloud Hosting and Databases:</i></h3>
@@ -42,7 +37,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
 [![PostgreSQL](https://img.shields.io/badge/-⭐-555555?label=PostgreSQL&labelColor=4169E1&style=for-the-badge&logo=postgresql&logoColor=fff)](./certs/postgreslq.md)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=fff)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
 
 
@@ -105,11 +99,11 @@
 - [Feat/migrate to posix](https://github.com/tonytech83/dotfiles/pull/37) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
 <h3><i>Recent Stars</i></h3>
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill &#43; proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [pashkulev-ai-projects/agentic-design-patterns](https://github.com/pashkulev-ai-projects/agentic-design-patterns) - 10 hands-on demos covering every major agentic workflow design pattern —  built with the OpenAI Agents SDK
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [officialrajdeepsingh/nerd-fonts-installer](https://github.com/officialrajdeepsingh/nerd-fonts-installer) - Nerd Fonts Installer is a bash script that allows users to easily install any nerd font in a Debian-based distribution by following a few simple steps.
 
 <div align="center">
 
