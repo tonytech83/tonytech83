@@ -18,9 +18,6 @@
 [![JavaScript](https://img.shields.io/badge/-⭐-555555?label=JavaScript&labelColor=F7DF1E&style=for-the-badge&logo=javascript&logoColor=323330)](./certs/js_front_end_cert.md)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=fff)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=fff)
-![RegEx](https://img.shields.io/badge/RegEx-3e69cd?style=for-the-badge&logoColor=fff)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff)
 
 
 <h3><i>Frameworks and Libraries:</i></h3>
@@ -31,8 +28,6 @@
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=fff)
 [![NumPy](https://img.shields.io/badge/-⭐-555555?label=NumPy&labelColor=013243&style=for-the-badge&logo=numpy&logoColor=fff)](./certs/jupyter.md)
 [![Pandas](https://img.shields.io/badge/-⭐-555555?label=Pandas&labelColor=150458&style=for-the-badge&logo=pandas&logoColor=fff)](./certs/jupyter.md)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=fff)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
 
 
 <h3><i>Cloud Hosting and Databases:</i></h3>
@@ -42,7 +37,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
 [![PostgreSQL](https://img.shields.io/badge/-⭐-555555?label=PostgreSQL&labelColor=4169E1&style=for-the-badge&logo=postgresql&logoColor=fff)](./certs/postgreslq.md)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=fff)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
 
 
