@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
- <p align="center"><i>- Nikos Kazantzakis </i></p>
+ <p><i> 'If you don't believe it or don't get it, I don't have the time to try to convince you, sorry!' </i></p>
+ <p align="center"><i>- Satoshi Nakamoto </i></p>
 </h3>
 
 <br/>
@@ -82,7 +82,7 @@
 - [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
 - [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
 - [long-beach-city-crew/vscode-settings](https://github.com/long-beach-city-crew/vscode-settings) - vscode user settings
-- [long-beach-city-crew/gh-variables](https://github.com/long-beach-city-crew/gh-variables) - GitHub variables
+- [long-beach-city-crew/gh-events-deep-dive](https://github.com/long-beach-city-crew/gh-events-deep-dive) - Events Deep Dive
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
