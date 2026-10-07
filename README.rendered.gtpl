@@ -48,6 +48,7 @@
 [![Git](https://img.shields.io/badge/-⭐-555555?label=Git&labelColor=F05032&style=for-the-badge&logo=git&logoColor=fff)](./certs/git.md)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 [![GitHub Actions](https://img.shields.io/badge/-⭐-555555?label=GitHub%20Actions&labelColor=2088FF&style=for-the-badge&logo=githubactions&logoColor=fff)](./certs/devops.md)
+[![GitHub Copilot](https://img.shields.io/badge/-⭐-555555?label=GitHub%20Copilot&labelColor=000000&style=for-the-badge&logo=githubcopilot&logoColor=fff)](./certs/gh_copilot.md)
 ![VMware Workstation](https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=fff)
 [![Docker](https://img.shields.io/badge/-⭐-555555?label=Docker&labelColor=2496ED&style=for-the-badge&logo=docker&logoColor=fff)](./certs/containers_and_cloud.md)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
