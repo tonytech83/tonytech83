@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
- <p align="center"><i>- Hal Finney </i></p>
+ <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
+ <p align="center"><i>- Nikos Kazantzakis </i></p>
 </h3>
 
 <br/>
@@ -79,11 +79,11 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [aiden-takeda/passchecker](https://github.com/aiden-takeda/passchecker) - 
-- [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles) - My dotfiles
+- [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods) - A personal tracker for the 2017 CompTrain Open Athletes CrossFit workouts, with Bulgarian descriptions and progress tracking.
+- [long-beach-city-crew/deploy](https://github.com/long-beach-city-crew/deploy) - Deploy to proxmox
 - [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
-- [aiden-takeda/rename](https://github.com/aiden-takeda/rename) - 
-- [long-beach-city-crew/vscode-settings](https://github.com/long-beach-city-crew/vscode-settings) - vscode user settings
+- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
+- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
@@ -93,18 +93,18 @@
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 <h3><i>My recent Pull Requests</i></h3>
 
-- [to_dev](https://github.com/tonytech83/dotfiles/pull/41) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Dev](https://github.com/tonytech83/dotfiles/pull/40) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Dev](https://github.com/tonytech83/dotfiles/pull/39) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Dev](https://github.com/tonytech83/dotfiles/pull/38) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
-- [Feat/migrate to posix](https://github.com/tonytech83/dotfiles/pull/37) on [tonytech83/dotfiles](https://github.com/tonytech83/dotfiles)
+- [Redirect only to fixed pages (CodeQL py/url-redirection)](https://github.com/long-beach-city-crew/crossfit-wods/pull/5) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
+- [Tighten redirect check; show contact email on closed registration](https://github.com/long-beach-city-crew/crossfit-wods/pull/4) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
+- [Potential fix for code scanning alert no. 5: URL redirection from remote source](https://github.com/long-beach-city-crew/crossfit-wods/pull/3) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
+- [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/long-beach-city-crew/crossfit-wods/pull/1) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
+- [Add push trigger to main workflow](https://github.com/tonytech83/sqm-vs-btc/pull/13) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill &#43; proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
-- [pashkulev-ai-projects/agentic-design-patterns](https://github.com/pashkulev-ai-projects/agentic-design-patterns) - 10 hands-on demos covering every major agentic workflow design pattern —  built with the OpenAI Agents SDK
 
 <div align="center">
 
