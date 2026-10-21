@@ -28,6 +28,7 @@
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=fff)
 [![NumPy](https://img.shields.io/badge/-⭐-555555?label=NumPy&labelColor=013243&style=for-the-badge&logo=numpy&logoColor=fff)](./certs/jupyter.md)
 [![Pandas](https://img.shields.io/badge/-⭐-555555?label=Pandas&labelColor=150458&style=for-the-badge&logo=pandas&logoColor=fff)](./certs/jupyter.md)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
 
 
 <h3><i>Cloud Hosting and Databases:</i></h3>
@@ -79,11 +80,11 @@
 
 <h3><i>Currently working on</i></h3>
 
+- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
+- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
 - [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods) - A personal tracker for the 2017 CompTrain Open Athletes CrossFit workouts, with Bulgarian descriptions and progress tracking.
 - [long-beach-city-crew/deploy](https://github.com/long-beach-city-crew/deploy) - Deploy to proxmox
 - [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
@@ -93,11 +94,11 @@
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Update certifi version in requirements.txt](https://github.com/tonytech83/sqm-vs-btc/pull/16) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
+- [New tabs](https://github.com/tonytech83/sqm-vs-btc/pull/15) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
+- [Added new tabs](https://github.com/tonytech83/sqm-vs-btc/pull/14) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Redirect only to fixed pages (CodeQL py/url-redirection)](https://github.com/long-beach-city-crew/crossfit-wods/pull/5) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
 - [Tighten redirect check; show contact email on closed registration](https://github.com/long-beach-city-crew/crossfit-wods/pull/4) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
-- [Potential fix for code scanning alert no. 5: URL redirection from remote source](https://github.com/long-beach-city-crew/crossfit-wods/pull/3) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
-- [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/long-beach-city-crew/crossfit-wods/pull/1) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
-- [Add push trigger to main workflow](https://github.com/tonytech83/sqm-vs-btc/pull/13) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 <h3><i>Recent Stars</i></h3>
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework

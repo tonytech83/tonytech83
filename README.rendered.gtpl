@@ -28,6 +28,7 @@
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=fff)
 [![NumPy](https://img.shields.io/badge/-⭐-555555?label=NumPy&labelColor=013243&style=for-the-badge&logo=numpy&logoColor=fff)](./certs/jupyter.md)
 [![Pandas](https://img.shields.io/badge/-⭐-555555?label=Pandas&labelColor=150458&style=for-the-badge&logo=pandas&logoColor=fff)](./certs/jupyter.md)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
 
 
 <h3><i>Cloud Hosting and Databases:</i></h3>
