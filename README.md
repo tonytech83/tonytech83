@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
- <p align="center"><i>- Nikos Kazantzakis </i></p>
+ <p><i> 'If you don't believe it or don't get it, I don't have the time to try to convince you, sorry!' </i></p>
+ <p align="center"><i>- Satoshi Nakamoto </i></p>
 </h3>
 
 <br/>
@@ -80,11 +80,11 @@
 
 <h3><i>Currently working on</i></h3>
 
-- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
-- [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods) - A personal tracker for the 2017 CompTrain Open Athletes CrossFit workouts, with Bulgarian descriptions and progress tracking.
-- [long-beach-city-crew/deploy](https://github.com/long-beach-city-crew/deploy) - Deploy to proxmox
 - [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
+- [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper) - Warranty Keeper is a Django web application for managing your warranties and suppliers. Store purchase details, warranty periods, prices and supplier info, and keep an eye on what&#39;s expiring from a single dashboard.
+- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
+- [tonytech83/crossfit-wods](https://github.com/tonytech83/crossfit-wods) - Flask web application that lists Crossfit WOD (Workout of the Day) files from a data directory
+- [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods) - A personal tracker for the 2017 CompTrain Open Athletes CrossFit workouts, with Bulgarian descriptions and progress tracking.
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
@@ -94,11 +94,11 @@
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Update djangorestframework version](https://github.com/tonytech83/inventory/pull/50) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
+- [Update pillow version in requirements.txt](https://github.com/tonytech83/inventory/pull/49) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
+- [Upgrade Pillow package to version 13.0.0](https://github.com/tonytech83/warranty-keeper/pull/29) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 - [Update certifi version in requirements.txt](https://github.com/tonytech83/sqm-vs-btc/pull/16) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [New tabs](https://github.com/tonytech83/sqm-vs-btc/pull/15) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [Added new tabs](https://github.com/tonytech83/sqm-vs-btc/pull/14) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
-- [Redirect only to fixed pages (CodeQL py/url-redirection)](https://github.com/long-beach-city-crew/crossfit-wods/pull/5) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
-- [Tighten redirect check; show contact email on closed registration](https://github.com/long-beach-city-crew/crossfit-wods/pull/4) on [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods)
 <h3><i>Recent Stars</i></h3>
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
