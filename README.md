@@ -1,8 +1,8 @@
 <br/>
 
 <h3 align="center">
- <p><i> 'Since we're all rich with bitcoins, or we will be once they're worth a million dollars like everyone expects, we ought to put some of this unearned wealth to good use.' </i></p>
- <p align="center"><i>- Hal Finney </i></p>
+ <p><i> 'I hope for nothing. I fear nothing. I am free.' </i></p>
+ <p align="center"><i>- Nikos Kazantzakis </i></p>
 </h3>
 
 <br/>
@@ -81,10 +81,10 @@
 <h3><i>Currently working on</i></h3>
 
 - [tonytech83/inventory](https://github.com/tonytech83/inventory) - Django Project for Final Exam
-- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
-- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
 - [long-beach-city-crew/crossfit-wods](https://github.com/long-beach-city-crew/crossfit-wods) - A personal tracker for the 2017 CompTrain Open Athletes CrossFit workouts, with Bulgarian descriptions and progress tracking.
-- [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc) - A Flask-based web application that compares the average price per square meter of real estate in Sofia with the current price of Bitcoin (BTC).
+- [tonytech83/github-readme-stats](https://github.com/tonytech83/github-readme-stats) - Working local version of https://github.com/anuraghazra/github-readme-stats
+- [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo) - md to html with flask
+- [tonytech83/mini-projects](https://github.com/tonytech83/mini-projects) - bash, powershell, python, cpp
 <h3><i>My latest projects</i></h3>
 
 - [tonytech83/trblsh](https://github.com/tonytech83/trblsh) - Repo based on https://github.com/tonytech83/llm-init-trblsh
@@ -94,18 +94,18 @@
 - [tonytech83/bazel-factorial](https://github.com/tonytech83/bazel-factorial) - Bazel - factorial benchmark (Bazel 9 &#43; GMP)
 <h3><i>My recent Pull Requests</i></h3>
 
+- [Update Werkzeug version to 3.1.9](https://github.com/tonytech83/python-hugo/pull/6) on [tonytech83/python-hugo](https://github.com/tonytech83/python-hugo)
 - [Changed api sqm price url](https://github.com/tonytech83/sqm-vs-btc/pull/17) on [tonytech83/sqm-vs-btc](https://github.com/tonytech83/sqm-vs-btc)
 - [Change way downloading and using proxies](https://github.com/tonytech83/scraper-api/pull/2) on [tonytech83/scraper-api](https://github.com/tonytech83/scraper-api)
 - [Update djangorestframework version](https://github.com/tonytech83/inventory/pull/50) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
 - [Update pillow version in requirements.txt](https://github.com/tonytech83/inventory/pull/49) on [tonytech83/inventory](https://github.com/tonytech83/inventory)
-- [Upgrade Pillow package to version 13.0.0](https://github.com/tonytech83/warranty-keeper/pull/29) on [tonytech83/warranty-keeper](https://github.com/tonytech83/warranty-keeper)
 <h3><i>Recent Stars</i></h3>
 
+- [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill &#43; proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
-- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 
 <div align="center">
 
